@@ -96,11 +96,13 @@
 - B-Tree & B+Tree
 - 정렬 알고리즘(Quick Sort, Merge Sort)
 
-## 그 외
+## 그 외1
 
 ### [9주차](9주차)
 - 객체 지향 프로그래밍(OOP)
 - 디도스, 피싱, 스미싱
 - Hash vs Encryption
-- 애자일(Agile) vs 워터폴(Waterfall)
+
+### [10주차](10주차)
 - 디자인패턴
+- 애자일(Agile) vs 워터폴(Waterfall)
